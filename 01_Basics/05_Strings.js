@@ -42,13 +42,24 @@ console.log(anotherString);
 // const newstr = str.slice(-4,-1)
 // console.log(newstr)
 
+// const a = "a";
+// const b = "b";
+// if (a < b) {
+//   // true
+//   console.log(`${a} is less than ${b}`);
+// } else if (a > b) {
+//   console.log(`${a} is greater than ${b}`);
+// } else {
+//   console.log(`${a} and ${b} are equal.`);
+// }
+
+
 const a = "a";
 const b = "b";
-if (a < b) {
-  // true
-  console.log(`${a} is less than ${b}`);
-} else if (a > b) {
-  console.log(`${a} is greater than ${b}`);
-} else {
-  console.log(`${a} and ${b} are equal.`);
-}
+const A = "A";
+const B = "B";
+
+// console.log("a".charCodeAt(0)); // 97
+// console.log("b".charCodeAt(0)); // 98
+// console.log("A".charCodeAt(0));
+console.log("B".charCodeAt());
